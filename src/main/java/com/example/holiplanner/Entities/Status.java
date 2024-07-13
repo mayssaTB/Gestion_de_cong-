@@ -1,4 +1,5 @@
 package com.example.holiplanner.Entities;
 
-public class Calendar {
+public enum Status {
+    Validated, Rejected
 }
